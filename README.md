@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/hgyoon/LeetHub/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/hgyoon/LeetHub/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/hgyoon/LeetHub/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/hgyoon/LeetHub/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hgyoon/LeetHub/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hgyoon/LeetHub/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/hgyoon/LeetHub/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
